@@ -1,0 +1,1 @@
+This section of the project focuses on building a music recommendation system using machine learning and the Spotify Web API. The system leverages K-Means clustering to group songs and genres based on audio features, and it recommends similar songs to a user based on their listening history.
