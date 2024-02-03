@@ -7,7 +7,7 @@ Genre Analysis Over Time
 K-Means Clustering of Genres
 K-Means Clustering of Songs
 Exploratory Data Analysis (EDA)
-In the notebook spotifyvisualisation.ipynb, we conducted an exploratory data analysis of the music dataset. Key visualizations include:
+In the notebook spotify.ipynb, we conducted an exploratory data analysis of the music dataset. Key visualizations include:
 
 <h3>Distribution of song features (acousticness, danceability, energy, etc.).</h3>
 Trends in music characteristics over time.
