@@ -1,4 +1,4 @@
-# Recommendation-System-In-Spotify-by-Machine-Learning
+# Spotify Data Analysis and Clustering
 This repository contains code for analyzing and clustering music data using machine learning techniques. We utilized Python, scikit-learn, and Plotly Express to explore and visualize the characteristics of songs and genres.
 
 <h3>Content</h3>
